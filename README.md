@@ -41,7 +41,7 @@ Live client delivery also includes CRM / portal, cafe ordering, and e-commerce b
 
 ```text
 AI / agents     Python · FastAPI · RAG · LangChain / LlamaIndex · prompt + eval loops
-Backend         .NET / C# · ASP.NET Core · Nest-adjacent Node · Laravel / PHP · Spring Boot
+Backend         .NET / C# · ASP.NET Core · Node / TypeScript · Laravel / PHP · Spring Boot
 Frontend        React · Next.js · TypeScript · Tailwind · Angular
 Data / cloud    SQL · PostgreSQL · MySQL · Redis · Power BI · Azure fundamentals
 Delivery        SDLC · UAT · docs · async English · mentored 30+ interns
